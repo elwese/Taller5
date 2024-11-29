@@ -1,3 +1,5 @@
+package Cliente;
+
 public class TaskManagerFacade {
     private List<Task> tasks = new ArrayList<>();
     private TaskViewStrategy viewStrategy;
